@@ -15,11 +15,11 @@
 
 <br>
 
-![Auto Text Effect]()
+![Auto Text Effect](images/auto-text-effect.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Auto-Text-Effect/)
 
 <br>
 
